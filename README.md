@@ -35,3 +35,12 @@
 - [GitHub & Collaboration](/task_2/GitHub_&_Collaboration.png)
 
 ----------
+
+## Task 3
+- (Done) If you honestly finished all the previous steps than go ahead and share it with others.
+- Nothing new, but... It was a good idea to bring my knowledge up to date.
+
+### Screenshots
+- [Intro to HTML & CSS](/task_3/HTML_and_CSS_Syntax.png)
+
+----------
