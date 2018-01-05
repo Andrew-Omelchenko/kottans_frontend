@@ -44,3 +44,13 @@
 - [Intro to HTML & CSS](/task_3/HTML_and_CSS_Syntax.png)
 
 ----------
+
+## Task 4
+- (Done) If you honestly finished all the previous steps than go ahead and share it with others.
+- All materials were new to me.
+- Interesting article about specificity.
+
+### Screenshots
+- [Responsive Web Design Fundamentals](/task_4/Responsive_Web_Design_Fundamentals.png)
+
+----------
