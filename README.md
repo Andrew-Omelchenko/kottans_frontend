@@ -54,3 +54,15 @@
 - [Responsive Web Design Fundamentals](/task_4/Responsive_Web_Design_Fundamentals.png)
 
 ----------
+
+## Task 5
+- (Done) If you honestly finished all the previous steps than go ahead and share it with others.
+- I've already finished these courses earlier.
+- "Visualization of Common Algorithms and Data Structures" - good examples on Python.
+
+### Screenshots
+- [Intro to JavaScript](/task_5/Intro_to_JavaScript.png)
+- [Algorithms, Part I](/task_5/Algorithms_Part_I.png)
+- [Algorithms, Part I Grades](/task_5/Algorithms_Part_I_Grades.png)
+
+----------
