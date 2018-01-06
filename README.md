@@ -58,11 +58,21 @@
 ## Task 5
 - (Done) If you honestly finished all the previous steps than go ahead and share it with others.
 - I've already finished these courses earlier.
-- "Visualization of Common Algorithms and Data Structures" - good examples on Python.
+- "Visualization of Common Algorithms and Data Structures" - good examples in Python.
 
 ### Screenshots
 - [Intro to JavaScript](/task_5/Intro_to_JavaScript.png)
 - [Algorithms, Part I](/task_5/Algorithms_Part_I.png)
 - [Algorithms, Part I Grades](/task_5/Algorithms_Part_I_Grades.png)
+
+----------
+
+## Task 6
+- (Done) If you honestly finished all the previous steps than go ahead and share it with others.
+- I need more practice to understand this "Swahili" fully)))
+- There is a bunch of very useful extra materials in the "Glossary of Modern JavaScript Concepts..." articles.
+
+### Screenshots
+- [Object-Oriented JavaScript](/task_6/Object_Oriented_JavaScript.png)
 
 ----------
