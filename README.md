@@ -76,3 +76,13 @@
 - [Object-Oriented JavaScript](/task_6/Object_Oriented_JavaScript.png)
 
 ----------
+
+## Task 7
+- (Done) If you honestly finished all the previous steps than go ahead and share it with others.
+- Good course, but I need more time to understand its materials deeper. Maybe, I'll try one more pass later.
+- A lot of practice in Dev Tools usage cases.
+
+### Screenshots
+- [Offline Web Applications](/task_7/Offline_Web_Applications.png)
+
+----------
