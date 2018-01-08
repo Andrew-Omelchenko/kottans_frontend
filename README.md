@@ -86,3 +86,16 @@
 - [Offline Web Applications](/task_7/Offline_Web_Applications.png)
 
 ----------
+
+## Task 8
+- (Done) When you're done with your challenge push your code to github repo and publish it using gh-pages.
+- This task was the most exciting one. But time was so limited...)
+
+### Screenshots
+- [Memory Pair Game](/task_8/Memory_Pair_Game.png)
+
+### Links
+- [Source](https://github.com/Andrew-Omelchenko/-memory-pair-game/)
+- [Demo](https://andrew-omelchenko.github.io/-memory-pair-game/)
+
+----------
