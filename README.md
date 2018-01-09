@@ -99,3 +99,12 @@
 - [Demo](https://andrew-omelchenko.github.io/-memory-pair-game/)
 
 ----------
+
+## Task 9
+- (Done) If you honestly finished all the previous steps than go ahead and share it with others.
+- (IMHO) I should carefully study [Web Fundamentals](https://developers.google.com/web/fundamentals/) in addition to this course.
+
+### Screenshots
+- [Website Performance Optimization](/task_9/Website_Performance_Optimization.png)
+
+----------
