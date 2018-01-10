@@ -108,3 +108,15 @@
 - [Website Performance Optimization](/task_9/Website_Performance_Optimization.png)
 
 ----------
+
+## Task 10
+- In progress...:smiley:
+
+### Links
+- [Source](https://github.com/Andrew-Omelchenko/-weather-app/)
+- [Demo](https://andrew-omelchenko.github.io/-weather-app/)
+
+### Screenshots
+- None
+
+----------
