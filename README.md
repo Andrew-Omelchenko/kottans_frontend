@@ -113,8 +113,9 @@
 - In progress...:smiley:
 
 ### Links
-- [Source](https://github.com/Andrew-Omelchenko/-weather-app/)
-- [Demo](https://andrew-omelchenko.github.io/-weather-app/)
+  #### MVC
+- [Source](https://github.com/Andrew-Omelchenko/weather-bit-app/)
+- [Demo](https://andrew-omelchenko.github.io/weather-bit-app/)
 
 ### Screenshots
 - None
